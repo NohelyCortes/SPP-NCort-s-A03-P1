@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+*Uso de la función Math.sqrt y Math.pow para el calculo de raíces y potencias
  */
 package spp.ncortesd.a03.p1;
 import java.util.Scanner;
